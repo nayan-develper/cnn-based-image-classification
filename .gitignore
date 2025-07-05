@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Images and data files
+*.jpg
+*.jpeg
+*.png
+*.csv
+*.tsv
+*.zip
+*.h5
+*.ckpt
+
+# Logs and cache
+*.log
+*.tmp
+*.bak
